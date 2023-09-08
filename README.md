@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4lberth&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Nalberth" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4lberth&theme=tokyonight&layout=compact" alt="Principais Linguagens" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4lberth&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Nalberth" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4lberth&theme=tokyonight&layout=compact" alt="Principais Linguagens" height="200">
 </div>
 
 <div align="center">
