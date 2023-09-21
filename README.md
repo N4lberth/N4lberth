@@ -1,16 +1,22 @@
 <div align="center">
   <h2>Hi! my name is Nalberth, and I'm from Brazil! 👋</h2>
 
+##
+
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/n.berth_)
   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/n4lberth)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalberth-henrique-viera-pinto-b33027281/)
 </div>
 
+##
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N4lberth&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Nalberth" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4lberth&theme=tokyonight&layout=compact" alt="Principais Linguagens" height="200">
 </div>
+
+##
 
 <div align="center">
   <img width="40" src="https://github.com/N4lberth/N4lberth/assets/130379582/96daa27d-c51c-4329-9d55-91cc27306de3" alt="HTML5">
